@@ -1,0 +1,63 @@
+.futer-div {
+  width: 100%;
+  height: 378px;
+  text-align: center;
+  background: url(../../imgs/IMAGE2.svg) no-repeat center/cover;
+  position: relative;
+  margin-top: 89px;
+  position: relative;
+}
+.futer-text {
+  position: absolute;
+  top: 85px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.futer-h2 {
+  font-size: 25px;
+  line-height: 30px;
+  color: #efefef;
+  padding-bottom: 40px;
+}
+.futer-hr {
+  position: absolute;
+  top: 45px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-left: 23px;
+  width: 188px;
+  border: 1px solid#EFEFEF;
+  margin-bottom: 20px;
+}
+.futer-input {
+  text-align: start;
+  border: none;
+  width: 375px;
+  height: 50px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  padding-left: 35px;
+}
+.futer-btn {
+  width: 125px;
+  height: 50px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border: none;
+  background: #ffffff47;
+  color: #efefef;
+}
+.futer-text1 {
+  width: 1440px;
+  padding: 28px 0;
+  position: absolute;
+  top: 295px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #232f3899;
+}
+.futer-skill {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

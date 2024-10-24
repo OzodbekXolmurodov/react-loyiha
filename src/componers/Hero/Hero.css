@@ -1,0 +1,15 @@
+.hero-div {
+  background-color: #ffffff;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 23px 0;
+}
+.hero-p {
+  color: #768088;
+  text-align: Center;
+  font-size: 14px;
+  line-height: 20px;
+}
